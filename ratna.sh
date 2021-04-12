@@ -21,5 +21,3 @@ git push origin $branch
 
 
 echo "this push completed successfully"
-
-This is my very first code
