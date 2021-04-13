@@ -4,7 +4,6 @@ commit_message="$1"
 branch="$2"
 path="$3"
 
-####discussion####
 
 cd $path
 
