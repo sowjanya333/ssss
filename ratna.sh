@@ -4,7 +4,8 @@ commit_message="$1"
 branch="$2"
 path="$3"
 
-#my wish
+####discussion####
+
 cd $path
 
 git status
